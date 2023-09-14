@@ -1,4 +1,7 @@
-1111
+i
+ git config --global merge.toolvimdiff
+[root@ip-172-31-45-186 test1]# git config --global merge.conflictstyle diff3
+[root@ip-172-31-45-186 test1]# git config --gsdvkjvkjsnvjknsdv1111
 22223
 3
 
